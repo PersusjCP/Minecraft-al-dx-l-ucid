@@ -1,11 +1,16 @@
 { 
   "pack": {
     "pack_format": 15,
-    "description": "tulud Minecraft dxʷʔal dxʷləšucid!"
+    "description": "tulud Minecraft dxʷʔal dxʷləšucid ʔi txʷəlšucid!"
   },
   "language": {
     "lut": {
       "name": "dxʷləšucid",
+      "region": "liɬʔal ti x̌ʷəlč",
+      "bidirectional": false
+    }, 
+    "slh": {
+      "name": "txʷəlšucid",
       "region": "liɬʔal ti x̌ʷəlč",
       "bidirectional": false
     }
